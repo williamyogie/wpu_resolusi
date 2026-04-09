@@ -75,7 +75,7 @@
   <div class="card">
     <h2>Kontak</h2>
     <p>Email: william@example.com</p>
-    <p>GitHub: <a href="#">github.com/william</a></p>
+    <p>GitHub: <a href="#">https://williamyogie.github.io/wpu_resolusi/</a></p>
   </div>
 </section>
 
