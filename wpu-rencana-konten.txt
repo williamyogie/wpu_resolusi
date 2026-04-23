@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 -interview
+ *ke perusahaan
+ *ke tempat lowongan
 -vlog
 -pembangunan rumah
 -bekerja
