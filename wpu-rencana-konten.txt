@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 -interview
  *ke perusahaan
  *ke tempat lowongan
+-belajar remap ecu
 -vlog
 -pembangunan rumah
 -bekerja
