@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
  *ke perusahaan
  *ke tempat lowongan
   "melihat
+  "kepo
 -belajar remap ecu
 -vlog
   "motor
