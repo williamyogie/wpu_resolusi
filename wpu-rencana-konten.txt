@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
  *ke tempat lowongan
   "melihat
   "kepo
+  ^Angular
 -belajar remap ecu
 -vlog
   "motor
